@@ -14,6 +14,7 @@ bb/
 #test-baseon.test.rb-0401a
 rb-0401b
 rb-0401c
+rb-0401d
 
 # Linker output
 *.ilk
