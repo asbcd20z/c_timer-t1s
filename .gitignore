@@ -8,6 +8,9 @@ bb/
 *.obj
 *.elf
 
+#20230401a.test
+
+
 # Linker output
 *.ilk
 *.map
